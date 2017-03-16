@@ -1,0 +1,23 @@
+---
+title: "Flow Control"
+author: "Eric Archer"
+date: "1/9/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
+```
+
+## Flow Control
+
+A lot of programming requires understanding and controlling the flow of code execution. This is important both in top-level scripts as well as in functions. The simplest form of flow is linear - each line in a script is executed once in a sequential, top-down form, like this:
+
+```{r}
+a <- 5
+b <- 6
+c <- a + b
+print(c * 3)
+```
+
+
