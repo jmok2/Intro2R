@@ -1,4 +1,4 @@
-# SIOB 296: Introduction to Programming with R      
+#SIOB 296:  "Introduction to Programming with R"     
 Section: 902537  
 Dates: April 4, 2017 - June 6, 2017  
 Time: Tuesday 2:00 - 5:00pm  
@@ -8,7 +8,7 @@ Four Units, S/U Grading Only
 Contact: 
   Eric Archer   
   eric.archer@noaa.gov  
-  858-546-7121
+  858-546-7121  
 
 ## Course Description
 
@@ -23,7 +23,7 @@ RStudio: https://www.rstudio.com
 
 ## Syllabus
 
-Week 1 (4/4)    R console, RStudio, data structures, vectors, indexing, logical operations   
+Week 1 (4/4)    R console, RStudio, data structures, vectors, indexing, logical operations  
 Week 2 (4/11)   factors, matrices and arrays, indexing review  
 Week 3 (4/18)   lists, data frames, reading and writing data  
 Week 4 (4/25)   common functions for data summary and selection  

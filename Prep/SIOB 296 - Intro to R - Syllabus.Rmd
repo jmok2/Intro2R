@@ -5,16 +5,16 @@ output: pdf_document
 ---
 
 SIOB 296:  "Introduction to Programming with R"     
-Section: 902537
-Dates: April 4, 2017 - June 6, 2017
-Time: Tuesday 2:00 - 5:00pm
-Location: Eckart Building, first floor, Sea Cave
-Four Units, S/U Grading Only
+Section: 902537  
+Dates: April 4, 2017 - June 6, 2017  
+Time: Tuesday 2:00 - 5:00pm  
+Location: Eckart Building, first floor, Sea Cave  
+Four Units, S/U Grading Only  
 
 Contact: 
-  Eric Archer 
-  eric.archer@noaa.gov
-  858-546-7121
+  Eric Archer   
+  eric.archer@noaa.gov  
+  858-546-7121  
 
 ## Course Description
 
@@ -24,21 +24,21 @@ This course will focus on establishing a solid fundamental understanding of data
 
 Students should come with the latest versions of R and RStudio loaded on their laptops. They can be obtained at:
 
-R: https://www.r-project.org
+R: https://www.r-project.org  
 RStudio: https://www.rstudio.com
 
 ## Syllabus
 
-Week 1 (4/4)    R console, RStudio, data structures, vectors, indexing, logical operations 
-Week 2 (4/11)   factors, matrices and arrays, indexing review
-Week 3 (4/18)   lists, data frames, reading and writing data
-Week 4 (4/25)   common functions for data summary and selection
-Week 5 (5/2)    character and string manipulation
-Week 6 (5/9)    function writing and flow control
-Week 7 (5/16)   `apply` family of functions
-Week 8 (5/23)   graphics: `base` and `ggplot2`
-Week 9 (5/30)   statistics and model fitting
-Week 10 (6/6)   date and time handling, `tidyr` and `dplyr`, other special functions
+Week 1 (4/4)    R console, RStudio, data structures, vectors, indexing, logical operations  
+Week 2 (4/11)   factors, matrices and arrays, indexing review  
+Week 3 (4/18)   lists, data frames, reading and writing data  
+Week 4 (4/25)   common functions for data summary and selection  
+Week 5 (5/2)    character and string manipulation  
+Week 6 (5/9)    function writing and flow control  
+Week 7 (5/16)   `apply` family of functions  
+Week 8 (5/23)   graphics: `base` and `ggplot2`  
+Week 9 (5/30)   statistics and model fitting  
+Week 10 (6/6)   date and time handling, `tidyr` and `dplyr`, other special functions  
 
 ## Text
 
