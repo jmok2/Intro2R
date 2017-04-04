@@ -1,4 +1,4 @@
-#SIOB 296:  "Introduction to Programming with R"     
+# SIOB 296:  "Introduction to Programming with R"     
 Section: 902537  
 Dates: April 4, 2017 - June 6, 2017  
 Time: Tuesday 2:00 - 5:00pm  
