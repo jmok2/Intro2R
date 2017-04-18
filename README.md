@@ -23,16 +23,16 @@ RStudio: https://www.rstudio.com
 
 ## Syllabus
 
-Week 1 (4/4)    R console, RStudio, data structures, vectors, indexing, logical operations  
-Week 2 (4/11)   factors, matrices and arrays, indexing review  
-Week 3 (4/18)   lists, data frames, reading and writing data  
-Week 4 (4/25)   common functions for data summary and selection  
-Week 5 (5/2)    character and string manipulation  
-Week 6 (5/9)    function writing and flow control  
-Week 7 (5/16)   `apply` family of functions  
-Week 8 (5/23)   graphics: `base` and `ggplot2`  
-Week 9 (5/30)   statistics and model fitting  
-Week 10 (6/6)   date and time handling, `tidyr` and `dplyr`, other special functions  
+Week 1 (4/4)    R console, RStudio, data structures, vectors, indexing, logical operations, factors    
+Week 2 (4/11)   indexing review, matrices and arrays, lists, data.frames  
+Week 3 (4/18)   reading and writing data, common functions for data summary and selection  
+Week 4 (4/25)   character and string manipulation, function writing and flow control  
+Week 5 (5/2)    function review, `apply` family of functions  
+Week 6 (5/9)    base graphics   
+Week 7 (5/16)   ggplot2 graphics  
+Week 8 (5/23)   statistics and model fitting  
+Week 9 (5/30)   date and time handling, `tidyr` and `dplyr`, other special functions  
+Week 10 (6/6)   project review  
 
 ## Text
 
