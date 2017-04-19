@@ -34,6 +34,10 @@ Week 8 (5/23)   statistics and model fitting
 Week 9 (5/30)   date and time handling, `tidyr` and `dplyr`, other special functions  
 Week 10 (6/6)   project review  
 
+## Project
+
+Students who have officially enrolled in the class will be required to submit a function that they have written. The function should serve some useful purpose for your work by doing some sort of data manipulation, analysis, or plotting using techniques learned in the class. Please send the function to me in its own .r script file by the end of the day on Friday, June 2. Try to keep the function less than 100 lines long and comment it well. If running the function requires a special data set, send it as an R object along with a second script file that shows how it is executed. If you can't get the function to work, please send what you have at that point along with comments of what is working and what is not working. You will get full credit for the attempt and documentation. Finally, please let me know if I can (anonymously) use your code in class (working or not) for review on the final day.  
+
 ## Text
 
 Davies, T. 2016. The Book of R: A First Course in Programming and Statistics. No Starch Press. 832pp ISBN 978-1593276515
