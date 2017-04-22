@@ -30,8 +30,8 @@ Week 4 (4/25)   character and string manipulation, `apply` family of functions
 Week 5 (5/2)    function writing, flow control, scope   
 Week 6 (5/9)    base graphics   
 Week 7 (5/16)   ggplot2 graphics  
-Week 8 (5/23)   statistics and model fitting  
-Week 9 (5/30)   date and time handling, `tidyr` and `dplyr`, other special functions  
+Week 8 (5/23)   packages, statistics and model fitting 
+Week 9 (5/30)   other special functions, date and time handling, `tidyr` and `dplyr`  
 Week 10 (6/6)   project review  
 
 ## Project
