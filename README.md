@@ -21,17 +21,17 @@ Students should come with the latest versions of R and RStudio loaded on their l
 R: https://www.r-project.org  
 RStudio: https://www.rstudio.com
 
-## Syllabus
+## Syllabus (a work in progress...)
 
 Week 1 (4/4)    R console, RStudio, data structures, vectors, indexing, logical operations, factors    
 Week 2 (4/11)   indexing review, matrices and arrays, lists, data.frames  
 Week 3 (4/18)   reading and writing data, common functions for data summary and selection  
 Week 4 (4/25)   character and string manipulation, `apply` family of functions   
 Week 5 (5/2)    function writing, flow control, scope   
-Week 6 (5/9)    base graphics   
-Week 7 (5/16)   ggplot2 graphics  
-Week 8 (5/23)   packages, statistics and model fitting 
-Week 9 (5/30)   other special functions, date and time handling, `tidyr` and `dplyr`  
+Week 6 (5/9)    `base` graphics   
+Week 8 (5/23)   packages, statistics and model fitting  
+Week 9 (5/30)   other special functions, date and time handling   
+Week 7 (5/16)   practical examples  
 Week 10 (6/6)   project review  
 
 ## Project
