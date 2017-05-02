@@ -27,7 +27,7 @@ Week 1 (4/4)    R console, RStudio, data structures, vectors, indexing, logical 
 Week 2 (4/11)   indexing review, matrices and arrays, lists, data.frames  
 Week 3 (4/18)   reading and writing data, common functions for data summary and selection  
 Week 4 (4/25)   character and string manipulation, `apply` family of functions   
-Week 5 (5/2)    function writing, flow control
+Week 5 (5/2)    function writing, flow control  
 Week 6 (5/9)    `base` graphics   
 Week 8 (5/23)   packages, statistics, model fitting, simulation  
 Week 9 (5/30)   other special functions, file and folder manipulation, date and time handling   
