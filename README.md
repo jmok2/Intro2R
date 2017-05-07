@@ -29,9 +29,9 @@ Week 3 (4/18)   reading and writing data, common functions for data summary and 
 Week 4 (4/25)   character and string manipulation, `apply` family of functions   
 Week 5 (5/2)    function writing, flow control  
 Week 6 (5/9)    `base` graphics   
-Week 8 (5/23)   packages, statistics, model fitting, simulation  
-Week 9 (5/30)   other special functions, file and folder manipulation, date and time handling   
-Week 7 (5/16)   practical examples  
+Week 7 (5/16)   packages, statistics, model fitting, simulation  
+Week 8 (5/23)   other special functions, file and folder manipulation, date and time handling   
+Week 9 (5/30)   practical examples  
 Week 10 (6/6)   project review  
 
 ## Project
