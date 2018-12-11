@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # SIOB 296:  "Introduction to Programming with R"     
 __Dates__: January 8, 2019 - March 12, 2019  
 __Time__: Tuesday 9am - 11am  
@@ -16,7 +21,8 @@ Students should come on the first day with the latest versions of R and RStudio 
 R: https://www.r-project.org  
 RStudio: https://www.rstudio.com
 
-## Syllabus
+## Syllabus 
+(available at https://github.com/EricArcher/Intro2R/README.pdf)
 
 |Week|Date|Topic 
 |:--:|:----:|:-------------------------------------------------------
@@ -30,6 +36,8 @@ RStudio: https://www.rstudio.com
 |8 |2/26 |graphics (*base* and *ggplot2*)
 |9 |3/5  |statistics, model fitting, simulation
 |10|3/12 |the *tidyverse* package (*magrittr*, *dplyr*, *tidyr*)
+ 
+Class notes will be available on https://github.com/EricArcher/Intro2R/ClassNotes
  
 ## Project
 
