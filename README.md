@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # SIOB 296:  "Introduction to Programming with R"     
 __Dates__: January 8, 2019 - March 12, 2019  
 __Time__: Tuesday 9am - 11am  
@@ -44,8 +39,8 @@ All files that are part of the project should be sent to me compressed in a .zip
 
 ## Suggested Texts
 
-* Davies, T. 2016. The Book of R: A First Course in Programming and Statistics. No Starch Press. 832pp ISBN 978-1593276515  
-* Matloff, N. 2011. The Art of R Programming: A Tour of Statistical Software Design. No Starch Press. 400pp ISBN 978-1593273842  
+* Davies, T. 2016. The Book of R: A First Course in Programming and Statistics. No Starch Press. 832pp ISBN 978-1593276515
+* Matloff, N. 2011. The Art of R Programming: A Tour of Statistical Software Design. No Starch Press. 400pp ISBN 978-1593273842
 
 ## Other Resources
 
