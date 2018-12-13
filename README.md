@@ -3,7 +3,11 @@ __Dates__: January 8, 2019 - March 12, 2019
 __Time__: Tuesday 9am - 11am  
 __Location__: Eckart Building, first floor, Sea Cave  
 __Grading__: Four Units, S/U Only  
-__Contact__: Eric Archer, eric.archer@noaa.gov, 858-546-7121  
+
+Eric Archer
+eric.archer@noaa.gov
+858-546-7121  
+https://github.com/EricArcher/Intro2R
 
 ## Course Description
 
@@ -17,7 +21,6 @@ R: https://www.r-project.org
 RStudio: https://www.rstudio.com
 
 ## Syllabus 
-(available at https://github.com/EricArcher/Intro2R/README.pdf)
 
 |Week|Date|Topic 
 |:--:|:----:|:-------------------------------------------------------
@@ -32,8 +35,6 @@ RStudio: https://www.rstudio.com
 |9 |3/5  |statistics, model fitting, simulation
 |10|3/12 |the *tidyverse* package (*magrittr*, *dplyr*, *tidyr*)
  
-Class notes will be available on https://github.com/EricArcher/Intro2R/ClassNotes
- 
 ## Project
 
 Students who have officially enrolled in the class will be required to submit a script utilizing a function that they have written. The function should serve some useful purpose for your work by doing some sort of data manipulation, analysis, or visualization using techniques learned in the class. Try to keep the function less than 100 lines long and comment it well. The function should be accompanied by another script that gives an example of its execution. If running the function requires a special data set, send it either as a .csv file or as an R object. If you can't get the function to work, please send what you have at that point along with comments of what is working and what is not working. You will get full credit for the attempt and documentation.
@@ -44,6 +45,7 @@ All files that are part of the project should be sent to me compressed in a .zip
 
 * Davies, T. 2016. The Book of R: A First Course in Programming and Statistics. No Starch Press. 832pp ISBN 978-1593276515
 * Matloff, N. 2011. The Art of R Programming: A Tour of Statistical Software Design. No Starch Press. 400pp ISBN 978-1593273842
+* Wickham, H. and Grolemund, G. 2017. R for Data Science. O'Reilly Media. 522pp ISBN 978-1491910399
 
 ## Other Resources
 
