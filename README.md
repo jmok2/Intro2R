@@ -35,6 +35,8 @@ RStudio: https://www.rstudio.com
 |9 |3/5  |statistics, model fitting, simulation
 |10|3/12 |the *tidyverse* package (*magrittr*, *dplyr*, *tidyr*)
  
+Syllabus, class notes, and homework available at: https://github.com/EricArcher/Intro2R
+ 
 ## Project
 
 Students who have officially enrolled in the class will be required to submit a script utilizing a function that they have written. The function should serve some useful purpose for your work by doing some sort of data manipulation, analysis, or visualization using techniques learned in the class. Try to keep the function less than 100 lines long and comment it well. The function should be accompanied by another script that gives an example of its execution. If running the function requires a special data set, send it either as a .csv file or as an R object. If you can't get the function to work, please send what you have at that point along with comments of what is working and what is not working. You will get full credit for the attempt and documentation.
